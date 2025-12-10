@@ -1,0 +1,11 @@
+{
+  "name": "belajar-nodejs-logging",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "winston": "^3.13.0"
+  }
+}
